@@ -1,0 +1,44 @@
+[
+  {
+    "model": "OnePlus 12",
+    "price": 839.13,
+    "quantity": 1,
+    "image": "https://image01-in.oneplus.net/india-oneplus-statics-file/epb/202401/10/t2fz2WfD34sf7ZFd.png?x-amz-process=image/format,webp/quality,Q_80",
+    "details": "Snapdragon® 8 Gen 3, 16GB RAM With an ultra-flagship CPU and up to 16GB of LPDDR5X RAM, power your way to the pinnacle of performance."
+  },
+  {
+    "model": "OnePlus Open",
+    "price": 1678.33,
+    "quantity": 1,
+    "image": "https://image01-in.oneplus.net/india-oneplus-statics-file/epb/202310/17/Q6eo7MrmZImAofog.png?x-amz-process=image/format,webp/quality,Q_80",
+    "details": "Light and compact. It's Pro sizing on a fold.Lighter than any Fold at 239 grams, weighs just like a Pro Max. The Open is all sized up for a familiar hold."
+  },
+  {
+    "model": "Nothing Phone (2a) 5G",
+    "price": 287.7,
+    "quantity": 1,
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/l/z/p/-original-imahygghxemz5haj.jpeg?q=70&crop=false",
+    "details": "Custom Mediatek Dimensity 7200 Pro Processor Phone (2a) is fuelled by the custom Dimesity 7200 Pro chipset. Co-engineered between Nothing and MediaTek to deliver the best performance with optimal power consumption. Do more whilst using less thanks to game-changing efficiency from the 8-core 4nm TSMC 2nd Generation process, with clocking speeds of up to 2.8 GHz for multi-tasking to the max. Plus get up to 20 GB RAM with 8 GB RAM Booster."
+  },
+  {
+    "model": "OnePlus Nord CE3 5G",
+    "price": 275.72,
+    "quantity": 1,
+    "image": "https://image01-in.oneplus.net/india-oneplus-statics-file/epb/202306/26/jVK0MMj3GEtFxTxE.png?x-amz-process=image/format,webp/quality,Q_80",
+    "details": "17.02cm 120 Hz Fluid AMOLED DisplayGet stunning views and ultra-responsive taps and swipes with this big 120 Hz AMOLED display."
+  },
+  {
+    "model": "OnePlus Nord CE 3 Lite 5G",
+    "price": 215.77,
+    "quantity": 1,
+    "image": "https://image01-in.oneplus.net/india-oneplus-statics-file/epb/202304/03/Bt0iRmyzNrK5vaiW.png?x-amz-process=image/format,webp/quality,Q_80",
+    "details": "More watts. More battery. More fun. Cram more fun into your day with 67W SUPERVOOC fast charging that gets the hefty 5,000mAh battery up to one day’s power in just 30 minutes."
+  },
+  {
+    "model": "Nothing Phone (2)",
+    "price": 455.54,
+    "quantity": 1,
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/i/s/b/-original-imagrdefh2xgenzz.jpeg?q=70&crop=false",
+    "details": "Interactive Nothing Phone (2) Designed with impressive features and a myriad of thought processes put together, this phone takes you to the next-level of interaction and strengthens communication, thus allowing for a more focussed space."
+  }
+]
