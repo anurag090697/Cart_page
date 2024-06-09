@@ -69,7 +69,7 @@ function App() {
         </div>
       </nav>
       <div className='cartDisplay flex flex-col justify-center items-center gap-6 my-6'>
-        {data.map((ele, index) => {
+        {data.length > 0 ? (data.map((ele, index) => {
           return (
             <Product
               key={index}
@@ -80,7 +80,7 @@ function App() {
               rem={removePhone}
             />
           );
-        })}
+        })) : (<p className="text-2xl">Cart is empty</p>)}
       </div>
       <hr className='border-2' />
       <div className='flex mt-4 font-medium text-2xl items-center lg:w-1/3 md:w-1/2 w-full justify-between mx-auto bg-gray-300 py-1 px-2 '>
